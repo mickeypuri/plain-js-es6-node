@@ -5,6 +5,6 @@
 
 import costReduction from './costReduction.js';
 
-costReduction('aadbbcc',[7,6,9,5,3,2,1]);
+costReduction('aadbbccc',[7,6,9,5,3,2,1,0]);
 
 //console.log(result);

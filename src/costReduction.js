@@ -46,7 +46,6 @@ function costReduction (S, C) {
     do {
         const result = compare(charArray, charIndex, totalCost);
         charsLeft = result.charsLeft;
-        totalCost += result.cost;
         charIndex = result.charIndex;
         charArray = result.charArray;
         totalCost = result.totalCost;

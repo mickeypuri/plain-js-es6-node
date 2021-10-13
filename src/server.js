@@ -8,3 +8,7 @@
 //costReduction('aadbbccc',[7,6,9,5,3,2,1,0]);
 
 //console.log(result);
+
+import arrayDivide from './arrayDivide.js';
+
+console.log(arrayDivide([1,2,3,4,],3));
